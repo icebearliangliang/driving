@@ -11,3 +11,5 @@ elif country == 'American':
 		print('you can get a driving license')
 	else:
 		print("you can't get a driving license yet")
+else:
+	print('you can only input China or American')
